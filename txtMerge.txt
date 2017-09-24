@@ -1,2 +1,7 @@
 merge10.28 22sep 1stUser
+<<<<<<< HEAD
 add more in master
+=======
+thirsty- are u thissty
+soda as well
+>>>>>>> thirsty
