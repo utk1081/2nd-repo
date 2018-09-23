@@ -1,5 +1,5 @@
 package builder;
-
+  
 public class Computer {
 	//Mandatory parameter
 private String HDD;
